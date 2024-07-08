@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ecommerce-website/static/css/main.1b45c5db.css",
+    "main.js": "/ecommerce-website/static/js/main.8069b061.js",
+    "static/media/yellow_top2.png": "/ecommerce-website/static/media/yellow_top2.819c4e7ce0c2d16f02dc.png",
+    "static/media/blu-tshirt.png": "/ecommerce-website/static/media/blu-tshirt.8a75ad00e9a5feb5b7a2.png",
+    "static/media/shoes2.jpg": "/ecommerce-website/static/media/shoes2.9d8abb46223f4f8dc3f5.jpg",
+    "static/media/red_hoodie2.webp": "/ecommerce-website/static/media/red_hoodie2.8fb22a63395742d6cb05.webp",
+    "static/media/green_dress2.webp": "/ecommerce-website/static/media/green_dress2.27cccbad7538fc39b4ff.webp",
+    "static/media/default_img.webp": "/ecommerce-website/static/media/default_img.7a6a6c54279a54d1977c.webp",
+    "static/media/watch.webp": "/ecommerce-website/static/media/watch.bd0bbcd35499bad54e23.webp",
+    "index.html": "/ecommerce-website/index.html",
+    "main.1b45c5db.css.map": "/ecommerce-website/static/css/main.1b45c5db.css.map",
+    "main.8069b061.js.map": "/ecommerce-website/static/js/main.8069b061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b45c5db.css",
+    "static/js/main.8069b061.js"
+  ]
+}
