@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Blue T-shrt",
+        "image": "blu-tshirt.png"
+    },
+    {
+        "id" : 2,
+        "name": "Smart Watch",
+        "image": "watch.webp"
+    },
+    {
+        "id" : 3,
+        "name": "Red Hoodie",
+        "image": "red_hoodie2.webp"
+    },
+    {
+        "id" : 4,
+        "name": "Green Dress",
+        "image": "green_dress2.webp"
+    },
+    {
+        "id" : 5,
+        "name": "Yellow Summer Top",
+        "image": "yellow_top2.png"
+    },
+    {
+        "id" : 6,
+        "name": "Sport Shoes",
+        "image": "shoes2.jpg"
+    }
+]
